@@ -148,4 +148,4 @@ ga_submission = ga_test %>%
 ga_submission |>
   mutate(fullVisitorId = paste(fullVisitorId, month, sep = "-")) |>
   select(fullVisitorId, comprou = target) |>
-  write_csv("ga_submission.csv")
+  write_csv("results/ga_submission.csv")
