@@ -8,6 +8,5 @@ Taks: Prever quem irá fazer compras na Loja Virtual Google no próximo mês. O 
  <br>
  <br>
 
-Existe uma versão final disponível no [blog]([https://tainaweb-en.netlify.app/tutorials/](https://tairocha.netlify.app/tutorials/machine_learning/)https://tairocha.netlify.app/tutorials/machine_learning/)  
-
+Existe uma versão final disponível no [blog](https://tairocha.netlify.app/tutorials/machine_learning/)
 
