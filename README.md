@@ -6,6 +6,6 @@ O trabalho consiste em prever quem irá fazer compras na Loja Virtual Google no 
  <br>
  <br>
 
-Existe uma versão do TCC/Relatório final disponível no [blog](https://tainaweb-en.netlify.app/tutorials/)  
+Existe uma versão final disponível no [blog](https://tainaweb-en.netlify.app/tutorials/)  
 
 
